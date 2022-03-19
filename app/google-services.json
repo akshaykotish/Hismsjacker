@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92851954064",
+    "project_id": "friendssms-22c94",
+    "storage_bucket": "friendssms-22c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92851954064:android:d33771fed1e1f6ff0a9315",
+        "android_client_info": {
+          "package_name": "com.akshaykotishco.friendssms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92851954064-66ue8ho1l49fml1tl8ugg84749g2a3uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTlUUv0oVIPRao80-YuYBxnjE671r61k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92851954064-66ue8ho1l49fml1tl8ugg84749g2a3uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
